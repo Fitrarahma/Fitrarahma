@@ -18,7 +18,7 @@
 #### 1. [PT. Trijaya Digital Group ](https://tridi.net/) | Admin Online | Pontianak `Dec'2020 - Now`
    -record transaction data into excel on a daily basis
    - Serving Customers When There Are Questions or Obstacles
-   - 
+   - Reply to messages from customers, Serve complaints from customers
 #### 2. [ PT Indospiko Warehouse Lazada](http://www.indopsiko.com/) | Invintory and Picking | Sidoarjo`2019-2020`
    - Complete the data required for delivery, if necessary. 
    - Tidy up every placement of goods based on the group correctly and thoroughly
