@@ -38,8 +38,8 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fitra-rahmadhani#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fitra-rahmadhani#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fitra-rahmadhani-8a2873185#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fitra-rahmadhani-8a2873185#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/fitra_fii#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/fitra_fii#gh-dark-mode-only)
